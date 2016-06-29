@@ -30,7 +30,7 @@ import org.polymap.rhei.form.IFormEditorToolkit;
 /**
  * 
  * 
- * @author <a href="http://www.polymap.de">Falko Bräutigam</a>
+ * @author Steffen Stundzig
  */
 public class TextFormFieldWithSuggestions
         extends TextFormField {
